@@ -1,0 +1,13 @@
+* {
+	font-family: Roboto, sans-serif;
+	color: #333;
+}
+
+body {
+	background-color: #EEE;
+}
+
+canvas {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+}
